@@ -14,6 +14,7 @@ The first project involves creating a TCP socket in Python. This socket will be 
 - Response Sending: Send the response directly to the client.
 - Error Handling: If the requested file is not found on the server, send an HTTP "404 Not Found" message back to the client.
 
+![alt text](https://github.com/raymond-chii/communication-networks/blob/main/project%201/http_request.png)
 
 ## Project 2
 
